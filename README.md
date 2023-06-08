@@ -1,10 +1,10 @@
 # Github Flavoured Markdown
 
-- [x] [External Links](External-Links) 
-- [x] [Internal Links](Internal-Links) 
-- [x] [Images](Images) 
-- [x] [Emojis](Emojis) 
-- [x] [My TimeTable](My-TimeTable) 
+- [x] [External Links](#external-links) 
+- [x] [Internal Links](#internal-links) 
+- [x] [Images](#images) 
+- [x] [Emojis](#emojis) 
+- [x] [My TimeTable](#my-timetable) 
 
 
 ## External Links ## 
@@ -33,3 +33,4 @@ Smith | Html  |10:00 - 11:30 |
 Harry | CSS   |13:00 - 15:00 |
 
 
+> Created on 08-June-2023
